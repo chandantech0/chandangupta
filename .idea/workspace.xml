@@ -2,44 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bf174ea-ce9a-4bc0-8258-a129b23cd262" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/amziautomation/screenshot-app.amzautomation.com-2019.03.16-13-19-45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/amziautomation/screenshot-app.amzautomation.com-2019.03.16-13-21-25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/amziautomation/screenshot-app.amzautomation.com-2019.03.16-13-45-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/amzitrage/screenshot-app.amzitrage.com-2019.03.16-15-05-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/amzitrage/screenshot-app.amzitrage.com-2019.03.16-15-07-23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/amzitrage/screenshot-app.amzitrage.com-2019.03.16-15-08-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/amzitrage/screenshot-app.amzitrage.com-2019.03.16-15-08-54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/amzneos/screenshot-app.amzneos.com-2019.03.16-13-52-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/amzneos/screenshot-app.amzneos.com-2019.03.16-13-53-44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/clipsreel/screenshot-app.clipsreel.io-2019.03.16-14-53-48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/clipsreel/screenshot-app.clipsreel.io-2019.03.16-14-55-37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/clipsreel/screenshot-app.clipsreel.io-2019.03.16-15-04-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/marketplace/Screenshot 2019-03-16 at 1.58.51 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/marketplace/Screenshot 2019-03-16 at 2.00.27 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/marketplace/screenshot-bpconcjcammlapcogcnnelfmaeghhagj-2019.03.16-13-58-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/marketplace/screenshot-docs.google.com-2019.03.16-13-56-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/marketplace/screenshot-marketplace.vineasx.com-2019.03.16-13-57-46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/marketplace/screenshot-marketplace.vineasx.com-2019.03.16-14-02-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/marketplace/screenshot-marketplace.vineasx.com-2019.03.16-14-04-30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/rankreel/screenshot-app.rankreel.io-2019.03.16-14-46-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/rankreel/screenshot-app.rankreel.io-2019.03.16-14-46-55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/rankreel/screenshot-app.rankreel.io-2019.03.16-14-47-51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/rankreel/screenshot-app.rankreel.io-2019.03.16-14-48-51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/scriptreel/screenshot-app.scriptreel.io-2019.03.16-13-47-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/scriptreel/screenshot-app.scriptreel.io-2019.03.16-13-47-54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/scriptreel/screenshot-app.scriptreel.io-2019.03.16-13-48-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/scriptreel/screenshot-app.scriptreel.io-2019.03.16-13-50-00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/scriptreel/screenshot-app.scriptreel.io-2019.03.16-13-50-55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/spycom/screenshot-app.spycom.io-2019.03.16-15-21-32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/spycom/screenshot-app.spycom.io-2019.03.16-15-24-33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/spycom/screenshot-app.spycom.io-2019.03.16-15-30-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/storyreel/screenshot-app.storyreel.io-2019.03.16-13-09-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/storyreel/screenshot-app.storyreel.io-2019.03.16-13-13-21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/storyreel/screenshot-app.storyreel.io-2019.03.16-13-15-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/storyreel/screenshot-app.storyreel.io-2019.03.16-13-16-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/vidcurator/Screenshot 2019-03-16 at 12.49.34 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/vidcurator/screenshot-app.vidcuratorfx2.com-2019.03.16-13-01-55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/vidcurator/screenshot-app.vidcuratorfx2.com-2019.03.16-13-03-09.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -56,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="153" column="52" selection-start-line="153" selection-start-column="52" selection-end-line="153" selection-end-column="52" />
+            <state relative-caret-position="357">
+              <caret line="207" column="38" selection-start-line="207" selection-start-column="38" selection-end-line="207" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -82,9 +44,10 @@
   <component name="NamedScopeManager">
     <scope name="Unnamed" pattern="" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -164,19 +127,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552748896534</updated>
-      <workItem from="1552748901421" duration="2707000" />
+      <workItem from="1552748901421" duration="3597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2707000" />
+    <option name="totallyTimeSpent" value="3597000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="831" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22551093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -293,8 +256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="153" column="52" selection-start-line="153" selection-start-column="52" selection-end-line="153" selection-end-column="52" />
+        <state relative-caret-position="357">
+          <caret line="207" column="38" selection-start-line="207" selection-start-column="38" selection-end-line="207" selection-end-column="38" />
         </state>
       </provider>
     </entry>
