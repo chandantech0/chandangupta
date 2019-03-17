@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bf174ea-ce9a-4bc0-8258-a129b23cd262" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="5bf174ea-ce9a-4bc0-8258-a129b23cd262" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -60,6 +58,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>img/portfolio/1.jpg</find>
+      <find>.portfolio .item-img .item-img-overlay</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -171,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552748896534</updated>
       <workItem from="1552748901421" duration="3970000" />
-      <workItem from="1552845935183" duration="266000" />
+      <workItem from="1552845935183" duration="324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4236000" />
+    <option name="totallyTimeSpent" value="4294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="831" extended-state="0" />
