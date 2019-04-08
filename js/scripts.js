@@ -1,12 +1,9 @@
     /*-----------------------------------------------------------------------------------
-
-    Theme Name: Kewll
-    Theme URI: http://
-    Description: The Multi-Purpose Onepage Portfolio Template
-    Author: UI-ThemeZ
-    Author URI: http://themeforest.net/user/UI-ThemeZ
+    
+    Description: Chandan Gupta Portfolio
+    Author: Chandan Gupta
     Version: 1.0
-
+    
 -----------------------------------------------------------------------------------*/
 
 
