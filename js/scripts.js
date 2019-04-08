@@ -189,6 +189,6 @@ $(window).on("load",function (){
 
 $('#resume').on('click',function (e) {
     e.preventDefault();
-    window.opne('Resume.pdf');
+    window.open('Resume.pdf');
 });
 
